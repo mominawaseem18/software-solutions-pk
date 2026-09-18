@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Geist:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Geist", "Roboto", sans-serif;
+  background-color: aliceblue;
+  margin-top: 120;
+}
+
+code {
+  font-family:
+    source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
